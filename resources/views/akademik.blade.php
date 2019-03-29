@@ -83,7 +83,6 @@
               DB_DATABASE <br>
               DB_USERNAME <br>
               DB_PASSWORD <br>
-              yang berada di file .env </li>
         <li>run : php artisan migrate</li>
         <li>run : php artisan db:seed</li>
       </ul>
