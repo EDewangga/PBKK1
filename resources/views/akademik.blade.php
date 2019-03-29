@@ -36,7 +36,6 @@
           <div class="card">
             <div class="card-body text-center">
               <h5 class="card-title">MAHASISWA</h5>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
               <a href="{{@url('/akademik/mahasiswa')}}" class="btn btn-secondary" href="#" role="button">View details &raquo;</a>
             </div>
           </div>
@@ -45,7 +44,6 @@
           <div class="card">
             <div class="card-body text-center">
               <h5 class="card-title">DOSEN</h5>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
               <a href="{{@url('/akademik/dosen')}}" class="btn btn-secondary" href="#" role="button">View details &raquo;</a>
             </div>
           </div>
@@ -56,7 +54,6 @@
           <div class="card">
             <div class="card-body text-center">
               <h5 class="card-title">JOIN</h5>
-              <p class="card-text">Contoh join</p>
               <a href="{{@url('/akademik/join')}}" class="btn btn-secondary" href="#" role="button">View details &raquo;</a>
             </div>
           </div>
@@ -65,7 +62,6 @@
           <div class="card">
             <div class="card-body text-center">
               <h5 class="card-title">RELATIONSHIP</h5>
-              <p class="card-text">Contoh has one dan has many .</p>
               <a href="{{@url('/akademik/relationship')}}" class="btn btn-secondary" href="#" role="button">View details &raquo;</a>
             </div>
           </div>
@@ -74,7 +70,6 @@
           <div class="card">
             <div class="card-body text-center">
               <h5 class="card-title">RAW QUERY</h5>
-              <p class="card-text">Syntax sql biasa.</p>
               <a href="{{@url('/akademik/raw')}}" class="btn btn-secondary" href="#" role="button">View details &raquo;</a>
             </div>
           </div>
